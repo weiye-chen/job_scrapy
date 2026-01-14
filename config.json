@@ -1,0 +1,5 @@
+{
+  "queries": ["python", "c++", "java", "算法"],
+  "cities": ["101010100", "101020100", "101280100"],
+  "delay_between_tasks": 10
+}
