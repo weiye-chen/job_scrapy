@@ -37,9 +37,10 @@ pip install DrissionPage pandas streamlit plotly
 '保定': '101090200'
 ```
 3. 执行脚本爬取数据
-
+```commandline
 python job_spider.py
-
+```
 4. 数据可视化显示
-
+```commandline
 streamlit run app.py
+```
